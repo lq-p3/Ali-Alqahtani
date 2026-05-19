@@ -79,10 +79,6 @@ Professional networking platform for students and companies.
 ---
 ## GitHub Stats
 
-<p align="center">
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=lq-p33&show_icons=true&theme=tokyonight)](https://github.com/lq-p33)
 
-<img src="https://github-readme-stats.vercel.app/api?username=lq-p33&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lq-p33&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lq-p33&layout=compact&theme=tokyonight)](https://github.com/lq-p33)
