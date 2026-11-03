@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ali Alqahtani 👋</h1>
+<h1 align="center">Hi, I'm Ali Alqahtani</h1>
 <p align="center">
   <b>Computer Science Graduate · AI & Full-Stack Developer</b><br/>
   Building intelligent systems with Python, React, ASP.NET Core and Machine Learning.
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -53,13 +53,13 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 Advanced AI · Cloud Computing · Data Engineering · System Design
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lq-p3&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
